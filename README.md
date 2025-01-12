@@ -26,8 +26,3 @@ This is an **entry-level project** designed to practice data cleaning techniques
 
 ## Acknowledgment  
 The dataset was obtained with permission from [iweld's repository](https://github.com/iweld/data_cleaning). Don't hesitate to check out his excellent work!  
-
-## How to Use  
-1. Clone this repository:  
-   ```bash
-   git clone https://github.com/yourusername/club-member-data-cleaning.git
